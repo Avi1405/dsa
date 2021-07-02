@@ -1,5 +1,6 @@
 package com.kickinterview.sorting.foundation;
 
+//Get the smallest element in each iteration and set it at index by swapping
 public class SelectionSort {
 
     /**
